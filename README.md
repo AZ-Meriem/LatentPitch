@@ -4,9 +4,6 @@ A football player similarity and profiling tool built on high-dimensional latent
 
 ## Overview
 
-##  Key Highlights
-
-
 LatentPitch takes raw player telemetry, normalises it for playing time, runs positional cohort-conditioned PCA, and returns a ranked list of the most similar players to any chosen target. The default configuration uses 10 principal components, capturing ~83.7% of active metric variance, and operates on a 171-feature dataset for the 2025/26 season.
 
 Two model frameworks are available:
@@ -16,8 +13,6 @@ Two model frameworks are available:
 An in-app manuscript tab details the full methodology, design decisions, and known limitations.
 
 ---
-## Architecture
-=======
 ## System Architecture
 
 ```
@@ -36,8 +31,6 @@ Raw data (CSV)
 
 
 ## Data Sources
-====
-## Installation & Quickstart
 
 | Dataset | Season | Curator | Features |
 | --- | --- | --- | --- |
@@ -105,7 +98,7 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 
 ## Limitations
-=======
+
 ## Methodology Summary
 
 
@@ -119,7 +112,7 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 
 ## Project Leadership
-=======
+
 ## Analytical Limitations
 
 
@@ -131,7 +124,7 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 
 ## License
-=======
+
 ## Project Leadership & AI Collaboration Statement
 
 * **Technical Director & Principal Architect**: Lead Developer / Researcher ([z3757181@gmail.com](mailto:z3757181@gmail.com))
@@ -144,6 +137,5 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 ## License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
 
 MIT. See [LICENSE](LICENSE).
