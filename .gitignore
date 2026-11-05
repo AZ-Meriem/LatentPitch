@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit local state and logs
+.streamlit/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Lock files and scratch scripts
+*.lock
+scratch_*.py
+debug_*.py
+

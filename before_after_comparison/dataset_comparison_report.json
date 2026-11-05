@@ -1,0 +1,775 @@
+{
+  "Rayan Cherki": {
+    "player": "Rayan Cherki",
+    "role": "MF",
+    "role_description": "Playmaker / Attacking Midfielder",
+    "minutes_dataset_a": 1786.0,
+    "minutes_dataset_b": 1786.0,
+    "common_top10_matches": [
+      "Arda Güler",
+      "Phil Foden",
+      "Paulo Dybala"
+    ],
+    "dataset_a_top10": [
+      {
+        "Rank": 1,
+        "Player": "Arda Güler",
+        "Squad": "Real Madrid",
+        "Comp": "es La Liga",
+        "Age": 20.0,
+        "Match %": "98.87%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Medon Berisha",
+        "Squad": "Lecce",
+        "Comp": "it Serie A",
+        "Age": 21.0,
+        "Match %": "97.47%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Arnaud Nordin",
+        "Squad": "Rennes",
+        "Comp": "fr Ligue 1",
+        "Age": 27.0,
+        "Match %": "97.22%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Federico Dimarco",
+        "Squad": "Inter",
+        "Comp": "it Serie A",
+        "Age": 27.0,
+        "Match %": "96.66%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Jeremy Doku",
+        "Squad": "Manchester City",
+        "Comp": "eng Premier League",
+        "Age": 23.0,
+        "Match %": "96.54%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Paulo Dybala",
+        "Squad": "Roma",
+        "Comp": "it Serie A",
+        "Age": 31.0,
+        "Match %": "96.52%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Osame Sahraoui",
+        "Squad": "Lille",
+        "Comp": "fr Ligue 1",
+        "Age": 24.0,
+        "Match %": "96.48%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Bazoumana Touré",
+        "Squad": "Hoffenheim",
+        "Comp": "de Bundesliga",
+        "Age": 19.0,
+        "Match %": "96.42%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Phil Foden",
+        "Squad": "Manchester City",
+        "Comp": "eng Premier League",
+        "Age": 25.0,
+        "Match %": "95.87%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Fares Chaïbi",
+        "Squad": "Eintracht Frankfurt",
+        "Comp": "de Bundesliga",
+        "Age": 22.0,
+        "Match %": "95.83%"
+      }
+    ],
+    "dataset_b_top10": [
+      {
+        "Rank": 1,
+        "Player": "Arda Güler",
+        "Squad": "Real Madrid",
+        "Comp": "es La Liga",
+        "Age": 20.0,
+        "Match %": "98.16%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Charles De Ketelaere",
+        "Squad": "Atalanta",
+        "Comp": "it Serie A",
+        "Age": 24.0,
+        "Match %": "97.95%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Lee Kang-in",
+        "Squad": "Paris Saint-Germain",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "97.31%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Lazar Samardzic",
+        "Squad": "Atalanta",
+        "Comp": "it Serie A",
+        "Age": 23.0,
+        "Match %": "96.39%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Paulo Dybala",
+        "Squad": "Roma",
+        "Comp": "it Serie A",
+        "Age": 31.0,
+        "Match %": "95.84%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Maghnes Akliouche",
+        "Squad": "Monaco",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "95.43%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Phil Foden",
+        "Squad": "Manchester City",
+        "Comp": "eng Premier League",
+        "Age": 25.0,
+        "Match %": "95.40%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Giovani Lo Celso",
+        "Squad": "Real Betis",
+        "Comp": "es La Liga",
+        "Age": 29.0,
+        "Match %": "95.07%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Martin Baturina",
+        "Squad": "Como",
+        "Comp": "it Serie A",
+        "Age": 22.0,
+        "Match %": "94.96%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Javier Guerra",
+        "Squad": "Valencia",
+        "Comp": "es La Liga",
+        "Age": 22.0,
+        "Match %": "94.74%"
+      }
+    ],
+    "unique_to_dataset_a": [
+      "Medon Berisha",
+      "Arnaud Nordin",
+      "Federico Dimarco",
+      "Jeremy Doku",
+      "Osame Sahraoui",
+      "Bazoumana Touré",
+      "Fares Chaïbi"
+    ],
+    "unique_to_dataset_b": [
+      "Charles De Ketelaere",
+      "Lee Kang-in",
+      "Lazar Samardzic",
+      "Maghnes Akliouche",
+      "Giovani Lo Celso",
+      "Martin Baturina",
+      "Javier Guerra"
+    ]
+  },
+  "Erling Haaland": {
+    "player": "Erling Haaland",
+    "role": "FW",
+    "role_description": "Elite Striker / Goalscorer",
+    "minutes_dataset_a": 2953.0,
+    "minutes_dataset_b": 2953.0,
+    "common_top10_matches": [
+      "Donyell Malen",
+      "Odsonne Édouard",
+      "Michael Gregoritsch",
+      "Esteban Lepaul",
+      "Serhou Guirassy",
+      "Robert Lewandowski",
+      "Bamba Dieng",
+      "Dušan Vlahović"
+    ],
+    "dataset_a_top10": [
+      {
+        "Rank": 1,
+        "Player": "Esteban Lepaul",
+        "Squad": "Rennes",
+        "Comp": "fr Ligue 1",
+        "Age": 25.0,
+        "Match %": "98.83%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Bamba Dieng",
+        "Squad": "Lorient",
+        "Comp": "fr Ligue 1",
+        "Age": 25.0,
+        "Match %": "98.22%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Robert Lewandowski",
+        "Squad": "Barcelona",
+        "Comp": "es La Liga",
+        "Age": 36.0,
+        "Match %": "97.82%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Dušan Vlahović",
+        "Squad": "Juventus",
+        "Comp": "it Serie A",
+        "Age": 25.0,
+        "Match %": "97.52%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Serhou Guirassy",
+        "Squad": "Dortmund",
+        "Comp": "de Bundesliga",
+        "Age": 29.0,
+        "Match %": "97.31%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Michael Gregoritsch",
+        "Squad": "Augsburg",
+        "Comp": "de Bundesliga",
+        "Age": 31.0,
+        "Match %": "97.02%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Gianluca Scamacca",
+        "Squad": "Atalanta",
+        "Comp": "it Serie A",
+        "Age": 26.0,
+        "Match %": "96.38%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Odsonne Édouard",
+        "Squad": "Lens",
+        "Comp": "fr Ligue 1",
+        "Age": 27.0,
+        "Match %": "96.23%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Donyell Malen",
+        "Squad": "Roma",
+        "Comp": "it Serie A",
+        "Age": 26.0,
+        "Match %": "95.95%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Can Uzun",
+        "Squad": "Eintracht Frankfurt",
+        "Comp": "de Bundesliga",
+        "Age": 19.0,
+        "Match %": "95.84%"
+      }
+    ],
+    "dataset_b_top10": [
+      {
+        "Rank": 1,
+        "Player": "Robert Lewandowski",
+        "Squad": "Barcelona",
+        "Comp": "es La Liga",
+        "Age": 36.0,
+        "Match %": "99.68%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Serhou Guirassy",
+        "Squad": "Dortmund",
+        "Comp": "de Bundesliga",
+        "Age": NaN,
+        "Match %": "97.87%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Bamba Dieng",
+        "Squad": "Lorient",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "97.81%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Dušan Vlahović",
+        "Squad": "Juventus",
+        "Comp": "it Serie A",
+        "Age": 25.0,
+        "Match %": "97.74%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Michael Gregoritsch",
+        "Squad": "Augsburg",
+        "Comp": "de Bundesliga",
+        "Age": NaN,
+        "Match %": "97.47%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Esteban Lepaul",
+        "Squad": "Rennes",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "97.40%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Eli Junior Kroupi",
+        "Squad": "Bournemouth",
+        "Comp": "eng Premier League",
+        "Age": 19.0,
+        "Match %": "97.07%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Odsonne Édouard",
+        "Squad": "Lens",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "97.06%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Wesley Saïd",
+        "Squad": "Lens",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "96.41%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Donyell Malen",
+        "Squad": "Roma",
+        "Comp": "it Serie A",
+        "Age": 26.0,
+        "Match %": "96.06%"
+      }
+    ],
+    "unique_to_dataset_a": [
+      "Gianluca Scamacca",
+      "Can Uzun"
+    ],
+    "unique_to_dataset_b": [
+      "Eli Junior Kroupi",
+      "Wesley Saïd"
+    ]
+  },
+  "Virgil van Dijk": {
+    "player": "Virgil van Dijk",
+    "role": "DF",
+    "role_description": "Ball-playing Center Back",
+    "minutes_dataset_a": 3420.0,
+    "minutes_dataset_b": 3420.0,
+    "common_top10_matches": [
+      "Eric Dier",
+      "Marc-Oliver Kempf",
+      "Matthias Ginter"
+    ],
+    "dataset_a_top10": [
+      {
+        "Rank": 1,
+        "Player": "Abdoul Ouattara",
+        "Squad": "Strasbourg",
+        "Comp": "fr Ligue 1",
+        "Age": 19.0,
+        "Match %": "98.90%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Marc-Oliver Kempf",
+        "Squad": "Como",
+        "Comp": "it Serie A",
+        "Age": 30.0,
+        "Match %": "98.74%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Matthias Ginter",
+        "Squad": "Freiburg",
+        "Comp": "de Bundesliga",
+        "Age": 31.0,
+        "Match %": "98.69%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Eric Dier",
+        "Squad": "Monaco",
+        "Comp": "fr Ligue 1",
+        "Age": 31.0,
+        "Match %": "98.40%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Antonio Rüdiger",
+        "Squad": "Real Madrid",
+        "Comp": "es La Liga",
+        "Age": 32.0,
+        "Match %": "98.39%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Julian Niehues",
+        "Squad": "Heidenheim",
+        "Comp": "de Bundesliga",
+        "Age": 24.0,
+        "Match %": "98.38%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Denis Vavro",
+        "Squad": "Wolfsburg",
+        "Comp": "de Bundesliga",
+        "Age": 29.0,
+        "Match %": "98.16%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Leandro Cabrera",
+        "Squad": "Espanyol",
+        "Comp": "es La Liga",
+        "Age": 34.0,
+        "Match %": "98.10%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Álvaro Fidalgo",
+        "Squad": "Real Betis",
+        "Comp": "es La Liga",
+        "Age": 28.0,
+        "Match %": "97.83%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Rúben Dias",
+        "Squad": "Manchester City",
+        "Comp": "eng Premier League",
+        "Age": 28.0,
+        "Match %": "97.80%"
+      }
+    ],
+    "dataset_b_top10": [
+      {
+        "Rank": 1,
+        "Player": "Marc-Oliver Kempf",
+        "Squad": "Como",
+        "Comp": "it Serie A",
+        "Age": 30.0,
+        "Match %": "95.42%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Fabian Schär",
+        "Squad": "Newcastle United",
+        "Comp": "eng Premier League",
+        "Age": 33.0,
+        "Match %": "94.63%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Gabriel Magalhães",
+        "Squad": "Arsenal",
+        "Comp": "eng Premier League",
+        "Age": 27.0,
+        "Match %": "94.40%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Eric Dier",
+        "Squad": "Monaco",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "93.95%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Matthias Ginter",
+        "Squad": "Freiburg",
+        "Comp": "de Bundesliga",
+        "Age": NaN,
+        "Match %": "93.83%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Willi Orban",
+        "Squad": "RB Leipzig",
+        "Comp": "de Bundesliga",
+        "Age": NaN,
+        "Match %": "93.66%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Ronald Araújo",
+        "Squad": "Barcelona",
+        "Comp": "es La Liga",
+        "Age": 26.0,
+        "Match %": "92.93%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Trevoh Chalobah",
+        "Squad": "Chelsea",
+        "Comp": "eng Premier League",
+        "Age": 26.0,
+        "Match %": "92.82%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Jan Paul van Hecke",
+        "Squad": "Brighton",
+        "Comp": "eng Premier League",
+        "Age": 25.0,
+        "Match %": "92.50%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Gleison Bremer",
+        "Squad": "Juventus",
+        "Comp": "it Serie A",
+        "Age": 28.0,
+        "Match %": "92.47%"
+      }
+    ],
+    "unique_to_dataset_a": [
+      "Abdoul Ouattara",
+      "Antonio Rüdiger",
+      "Julian Niehues",
+      "Denis Vavro",
+      "Leandro Cabrera",
+      "Álvaro Fidalgo",
+      "Rúben Dias"
+    ],
+    "unique_to_dataset_b": [
+      "Fabian Schär",
+      "Gabriel Magalhães",
+      "Willi Orban",
+      "Ronald Araújo",
+      "Trevoh Chalobah",
+      "Jan Paul van Hecke",
+      "Gleison Bremer"
+    ]
+  },
+  "David Raya": {
+    "player": "David Raya",
+    "role": "GK",
+    "role_description": "Sweeper Goalkeeper",
+    "minutes_dataset_a": 3330.0,
+    "minutes_dataset_b": 3330.0,
+    "common_top10_matches": [
+      "Marco Carnesecchi"
+    ],
+    "dataset_a_top10": [
+      {
+        "Rank": 1,
+        "Player": "Lucas Chevalier",
+        "Squad": "Paris Saint-Germain",
+        "Comp": "fr Ligue 1",
+        "Age": 23.0,
+        "Match %": "95.56%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Michele Di Gregorio",
+        "Squad": "Juventus",
+        "Comp": "it Serie A",
+        "Age": 28.0,
+        "Match %": "94.97%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Josep Martinez",
+        "Squad": "Inter",
+        "Comp": "it Serie A",
+        "Age": 27.0,
+        "Match %": "94.95%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Marco Carnesecchi",
+        "Squad": "Atalanta",
+        "Comp": "it Serie A",
+        "Age": 25.0,
+        "Match %": "94.80%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Manuel Neuer",
+        "Squad": "Bayern Munich",
+        "Comp": "de Bundesliga",
+        "Age": 39.0,
+        "Match %": "94.67%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Mattia Perin",
+        "Squad": "Juventus",
+        "Comp": "it Serie A",
+        "Age": 32.0,
+        "Match %": "94.43%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Yann Sommer",
+        "Squad": "Inter",
+        "Comp": "it Serie A",
+        "Age": 36.0,
+        "Match %": "93.98%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Antonín Kinský",
+        "Squad": "Tottenham Hotspur",
+        "Comp": "eng Premier League",
+        "Age": 22.0,
+        "Match %": "92.79%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Thibaut Courtois",
+        "Squad": "Real Madrid",
+        "Comp": "es La Liga",
+        "Age": 33.0,
+        "Match %": "91.83%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Joan García",
+        "Squad": "Barcelona",
+        "Comp": "es La Liga",
+        "Age": 24.0,
+        "Match %": "90.15%"
+      }
+    ],
+    "dataset_b_top10": [
+      {
+        "Rank": 1,
+        "Player": "Marco Carnesecchi",
+        "Squad": "Atalanta",
+        "Comp": "it Serie A",
+        "Age": 25.0,
+        "Match %": "85.58%"
+      },
+      {
+        "Rank": 2,
+        "Player": "Augusto Batalla",
+        "Squad": "Rayo Vallecano",
+        "Comp": "es La Liga",
+        "Age": 29.0,
+        "Match %": "70.29%"
+      },
+      {
+        "Rank": 3,
+        "Player": "Edoardo Corvi",
+        "Squad": "Parma",
+        "Comp": "it Serie A",
+        "Age": 24.0,
+        "Match %": "70.25%"
+      },
+      {
+        "Rank": 4,
+        "Player": "Franco Israel",
+        "Squad": "Torino",
+        "Comp": "it Serie A",
+        "Age": 25.0,
+        "Match %": "63.52%"
+      },
+      {
+        "Rank": 5,
+        "Player": "Altay Bayındır",
+        "Squad": "Manchester Utd",
+        "Comp": "eng Premier League",
+        "Age": 27.0,
+        "Match %": "62.84%"
+      },
+      {
+        "Rank": 6,
+        "Player": "Stefano Turati",
+        "Squad": "Sassuolo",
+        "Comp": "it Serie A",
+        "Age": 23.0,
+        "Match %": "61.25%"
+      },
+      {
+        "Rank": 7,
+        "Player": "Łukasz Skorupski",
+        "Squad": "Bologna",
+        "Comp": "it Serie A",
+        "Age": 34.0,
+        "Match %": "58.96%"
+      },
+      {
+        "Rank": 8,
+        "Player": "Rémy Descamps",
+        "Squad": "Lyon",
+        "Comp": "fr Ligue 1",
+        "Age": NaN,
+        "Match %": "58.69%"
+      },
+      {
+        "Rank": 9,
+        "Player": "Stole Dimitrievski",
+        "Squad": "Valencia",
+        "Comp": "es La Liga",
+        "Age": 31.0,
+        "Match %": "57.35%"
+      },
+      {
+        "Rank": 10,
+        "Player": "Robin Roefs",
+        "Squad": "Sunderland",
+        "Comp": "eng Premier League",
+        "Age": 22.0,
+        "Match %": "55.76%"
+      }
+    ],
+    "unique_to_dataset_a": [
+      "Lucas Chevalier",
+      "Michele Di Gregorio",
+      "Josep Martinez",
+      "Manuel Neuer",
+      "Mattia Perin",
+      "Yann Sommer",
+      "Antonín Kinský",
+      "Thibaut Courtois",
+      "Joan García"
+    ],
+    "unique_to_dataset_b": [
+      "Augusto Batalla",
+      "Edoardo Corvi",
+      "Franco Israel",
+      "Altay Bayındır",
+      "Stefano Turati",
+      "Łukasz Skorupski",
+      "Rémy Descamps",
+      "Stole Dimitrievski",
+      "Robin Roefs"
+    ]
+  }
+}
