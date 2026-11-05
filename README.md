@@ -99,9 +99,6 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 ## Limitations
 
-## Methodology Summary
-
-
 - Tactical and possession bias: players in high-possession sides accumulate higher pass and touch volumes.
 - No cross-league strength adjustment.
 - On-ball events only — pressing runs, off-ball movement, and defensive shape are not captured.
@@ -111,26 +108,11 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 ---
 
 
-## Project Leadership
-
-## Analytical Limitations
-
+## Project Contribution and AI Collaboration
 
 **Technical Director:** Lead researcher (`z3757181@gmail.com`) — responsible for the research hypothesis, dual-engine architecture design, dataset selection, empirical validation, and all analytical decisions throughout the project.
 
 **AI implementation:** Antigravity (Google DeepMind) was used as a pair-programming assistant for code generation, refactoring, and pipeline implementation under the Technical Director's direction.
-
----
-
-
-## License
-
-## Project Leadership & AI Collaboration Statement
-
-* **Technical Director & Principal Architect**: Lead Developer / Researcher ([z3757181@gmail.com](mailto:z3757181@gmail.com))
-  * **Domain & Architectural Direction**: Formulated the research hypothesis and requirements, designed the dual-engine latent architecture, diagnosed and proved the multi-season dimensional dilution failure mode, selected the 10-component variance optimization threshold based on tactical domain requirements, directed the role-conditioned preprocessing pipeline, and oversaw all empirical validation benchmarks.
-* **AI Implementation Partner**: Antigravity (Google DeepMind Agentic Coding Framework)
-  * **Computational Synthesis & Pair Programming**: Leveraged advanced agentic AI as an implementation and synthesis assistant under the Technical Director's prompt specifications, algorithmic guidance, and code-review oversight—generating boilerplate, refactoring pipelines, executing data transformations, and assisting with syntax diagnostics.
 
 ---
 
