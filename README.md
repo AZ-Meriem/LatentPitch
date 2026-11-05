@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-# LatentPitch
-=======
-# LatentPitch: High-Dimensional Latent Profiling & Scouting Architecture
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
 
+# LatentPitch: High-Dimensional Latent Profiling & Scouting Architecture
 A football player similarity and profiling tool built on high-dimensional latent space analysis. It standardises per-90 event metrics across the top five European leagues, reduces them via PCA, and measures similarity between players using cosine distance in the resulting latent space.
 
----
-
-<<<<<<< HEAD
 ## Overview
-=======
+
 ##  Key Highlights
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
+
 
 LatentPitch takes raw player telemetry, normalises it for playing time, runs positional cohort-conditioned PCA, and returns a ranked list of the most similar players to any chosen target. The default configuration uses 10 principal components, capturing ~83.7% of active metric variance, and operates on a 171-feature dataset for the 2025/26 season.
 
@@ -23,12 +16,9 @@ Two model frameworks are available:
 An in-app manuscript tab details the full methodology, design decisions, and known limitations.
 
 ---
-
-<<<<<<< HEAD
 ## Architecture
 =======
 ## System Architecture
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
 
 ```
 Raw data (CSV)
@@ -44,13 +34,10 @@ Raw data (CSV)
                             └── app.py (Streamlit UI)
 ```
 
----
 
-<<<<<<< HEAD
 ## Data Sources
-=======
+====
 ## Installation & Quickstart
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
 
 | Dataset | Season | Curator | Features |
 | --- | --- | --- | --- |
@@ -61,7 +48,6 @@ Raw data (CSV)
 
 Dataset B is the primary active dataset. It includes expected goals (xG), expected assists (xAG), duel win rates, dribbles, recoveries, and final-third passing metrics not present in Dataset A.
 
----
 
 ## Installation
 
@@ -117,11 +103,11 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 ---
 
-<<<<<<< HEAD
+
 ## Limitations
 =======
 ## Methodology Summary
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
+
 
 - Tactical and possession bias: players in high-possession sides accumulate higher pass and touch volumes.
 - No cross-league strength adjustment.
@@ -131,11 +117,11 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 ---
 
-<<<<<<< HEAD
+
 ## Project Leadership
 =======
 ## Analytical Limitations
->>>>>>> 3d42075d641df0b049da3cb64dc6292e702b3a4a
+
 
 **Technical Director:** Lead researcher (`z3757181@gmail.com`) — responsible for the research hypothesis, dual-engine architecture design, dataset selection, empirical validation, and all analytical decisions throughout the project.
 
@@ -143,7 +129,7 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 ---
 
-<<<<<<< HEAD
+
 ## License
 =======
 ## Project Leadership & AI Collaboration Statement
