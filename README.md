@@ -1,4 +1,4 @@
-# ⚽ LatentPitch: High-Dimensional Latent Profiling & Scouting Architecture
+# LatentPitch: High-Dimensional Latent Profiling & Scouting Architecture
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg)](https://streamlit.io/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
 * **Calibrated Latent Space (10 PCs Default)**: Decomposes 46+ active per-90 event features into 10 orthogonal principal components capturing **83.66%** of active system variance, balancing core archetypes with granular tactical traits (wide crossing, box threat, recovery duel volume).
 * **Enriched 2025/2026 Event Telemetry**: Integrated with Chuong Trinh's 171-parameter dataset (`PERFECT_players_data-2025_2026.csv`), tracking expected goals ($xG$), expected assists ($xAG$), duels won, dribbles, recoveries, final-third passes, and goalkeeper prevention.
@@ -26,7 +26,7 @@
 
 ---
 
-## 📐 System Architecture
+## System Architecture
 
 ```
 Raw Telemetry Sources (FBref / Kaggle)
@@ -74,7 +74,7 @@ Raw Telemetry Sources (FBref / Kaggle)
 
 ---
 
-## 📦 Installation & Quickstart
+## Installation & Quickstart
 
 ### 1. Prerequisites
 * Python 3.10, 3.11, or 3.12
@@ -115,7 +115,7 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 LatentPitch/
@@ -159,7 +159,7 @@ LatentPitch/
 
 ---
 
-## 🔬 Methodology Summary
+## Methodology Summary
 
 ### Mathematical Pipeline
 1. **Per-90 Scaling**: Eliminates playing time bias via $\text{Metric}_{\text{per90}} = (\text{Metric} / \text{Minutes}) \times 90$.
@@ -176,7 +176,7 @@ LatentPitch/
 
 ---
 
-## ⚠️ Analytical Limitations
+## Analytical Limitations
 
 * **Tactical System & Possession Bias**: Players in high-possession teams (e.g., Manchester City, Bayern Munich) naturally accumulate higher passing and touch volumes than players in low-block counter-attacking setups.
 * **Unweighted Cross-League Strength**: Metrics are not adjusted by external league ELO coefficients.
@@ -186,7 +186,7 @@ LatentPitch/
 
 ---
 
-## 👥 Project Leadership & AI Collaboration Statement
+## Project Leadership & AI Collaboration Statement
 
 * **Technical Director & Principal Architect**: Lead Developer / Researcher ([z3757181@gmail.com](mailto:z3757181@gmail.com))
   * **Domain & Architectural Direction**: Formulated the research hypothesis and requirements, designed the dual-engine latent architecture, diagnosed and proved the multi-season dimensional dilution failure mode, selected the 10-component variance optimization threshold based on tactical domain requirements, directed the role-conditioned preprocessing pipeline, and oversaw all empirical validation benchmarks.
@@ -195,7 +195,7 @@ LatentPitch/
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
