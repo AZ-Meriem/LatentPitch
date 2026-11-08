@@ -120,4 +120,3 @@ Variance explained: 7 PCs = 76.6%, 10 PCs = 83.7%, 12 PCs = 87.4%. 10 PCs is the
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
-MIT. See [LICENSE](LICENSE).
